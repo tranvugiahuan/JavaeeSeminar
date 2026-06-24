@@ -1,6 +1,6 @@
 package com.example.seminar.order.repository;
 
-import com.example.seminar.order.domain.Order;
+import com.example.seminar.order.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

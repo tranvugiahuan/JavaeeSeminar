@@ -1,6 +1,6 @@
 package com.example.seminar.order.config;
 
-import com.example.seminar.order.domain.Product;
+import com.example.seminar.order.model.Product;
 import com.example.seminar.order.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

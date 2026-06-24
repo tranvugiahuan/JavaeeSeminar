@@ -1,12 +1,12 @@
 package com.example.seminar.order.service;
 
-import com.example.seminar.order.domain.Order;
-import com.example.seminar.order.domain.OrderDetail;
-import com.example.seminar.order.domain.Product;
+import com.example.seminar.order.model.Order;
+import com.example.seminar.order.model.OrderDetail;
+import com.example.seminar.order.model.Product;
 import com.example.seminar.order.repository.OrderRepository;
 import com.example.seminar.order.repository.ProductRepository;
-import com.example.seminar.order.web.OrderDetailForm;
-import com.example.seminar.order.web.OrderForm;
+import com.example.seminar.order.controller.OrderDetailForm;
+import com.example.seminar.order.controller.OrderForm;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

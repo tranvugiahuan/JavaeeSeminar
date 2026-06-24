@@ -1,11 +1,11 @@
 package com.example.seminar;
 
-import com.example.seminar.order.domain.Product;
+import com.example.seminar.order.model.Product;
 import com.example.seminar.order.repository.OrderRepository;
 import com.example.seminar.order.repository.ProductRepository;
 import com.example.seminar.order.service.OrderService;
-import com.example.seminar.order.web.OrderDetailForm;
-import com.example.seminar.order.web.OrderForm;
+import com.example.seminar.order.controller.OrderDetailForm;
+import com.example.seminar.order.controller.OrderForm;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

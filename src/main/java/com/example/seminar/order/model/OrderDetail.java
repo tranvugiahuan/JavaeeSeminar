@@ -1,4 +1,4 @@
-package com.example.seminar.order.domain;
+package com.example.seminar.order.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

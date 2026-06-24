@@ -1,4 +1,4 @@
-package com.example.seminar.order.web;
+package com.example.seminar.order.controller;
 
 import com.example.seminar.order.service.OrderService;
 import org.springframework.stereotype.Controller;

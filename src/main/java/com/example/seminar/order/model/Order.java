@@ -1,4 +1,4 @@
-package com.example.seminar.order.domain;
+package com.example.seminar.order.model;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
